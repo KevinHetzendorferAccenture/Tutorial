@@ -1,0 +1,12 @@
+@import "./variables";
+@import "./spacings";
+
+
+body {
+    main {
+        margin-top: $spacing-xxl;
+    }
+    .center {
+        text-align: center;
+    }
+}

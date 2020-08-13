@@ -1,0 +1,22 @@
+.m {
+    &b {
+        &-xs {
+            margin-bottom: $spacing-xs;
+        }
+        &-s {
+            margin-bottom: $spacing-s;
+        }
+        &-m {
+            margin-bottom: $spacing-m;
+        }
+        &-l {
+            margin-bottom: $spacing-l;
+        }
+        &-xl {
+            margin-bottom: $spacing-xl;
+        }
+        &-xxl {
+            margin-bottom: $spacing-xxl;
+        }
+    }
+}
